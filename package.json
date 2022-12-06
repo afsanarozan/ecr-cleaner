@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-cli-js": "^2.2.3",
+    "aws-sdk": "^2.1231.0"
+  }
+}
